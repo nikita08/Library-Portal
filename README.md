@@ -24,17 +24,6 @@ A system which will be finally attached to college portal as **a link to explore
 |Hardik Patel   |[hptl2205](https://github.com/hptl2205)|
 |Charmi Kalani  |[charmi2809](https://github.com/charmi2809)|
 
-######Progress line: :octocat:
-```
-- [x] Stage 1: Information Gathering (Requirements)
-- [ ] Stage 2: Planning
-- [ ] Stage 3: Design
-- [ ] Stage 4: Development
-- [ ] Stage 5: Testing and Debugging
-- [ ] Stage 6: Deployment and Maintenance
-
-```
-
 Deadline - 25 March,2016 :heavy_check_mark::clock10:
 
 #####Contributors List
