@@ -1,0 +1,6 @@
+features of library management system
+1. reords of student
+2. record of books,authors,book ids for available books
+3. issue date
+4. return date
+5. checking for penalty
