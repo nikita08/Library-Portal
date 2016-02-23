@@ -18,11 +18,10 @@ A system which will be finally attached to college portal as **a link to explore
 | :------------ |-----:|
 |Arvind Iyer    |[Arvindiyer](https://github.com/Arvindiyer)|
 |Vatsal Patel   |[buzz2vatsal](https://github.com/buzz2vatsal)|
-|Ishika Agarwal |[Ishika1007](https://github.com/Ishika1007)|
 |Heta Desai     |[hetadesai26](https://github.com/hetadesai26)|
 |Nishi Thacker  |[nishithacker11](https://github.com/nishithacker11)|
-|Hardik Patel   |[hptl2205](https://github.com/hptl2205)|
-|Charmi Kalani  |[charmi2809](https://github.com/charmi2809)|
+
+
 
 Deadline - 25 March,2016 :heavy_check_mark::clock10:
 
